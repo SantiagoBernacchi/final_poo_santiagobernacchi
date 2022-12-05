@@ -1,3 +1,5 @@
+import Garaje.Garaje;
+
 public class Main {
     public static void main(String[]args) {
         Garaje garaje1= new Garaje(20, 1500);

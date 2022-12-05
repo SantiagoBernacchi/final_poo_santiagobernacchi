@@ -1,13 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cabc6f4a-bfbe-4535-948e-2306ff23213c" name="Changes" comment="" />
+    <list default="true" id="cabc6f4a-bfbe-4535-948e-2306ff23213c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Mundial/Equipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mundial/Etapa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mundial/Grupo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mundial/Llave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mundial/Partido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mundial/Resultado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Garaje/Auto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Garaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Garaje/Garaje.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Moto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Garaje/Moto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Garaje/Vehiculo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2ITGkwUZCA3IoY5gPG9Yca2oQ3D" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -17,6 +49,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/berna/Documents/GitHub/final_poo_santiagobernacchi",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -29,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670198306691</updated>
       <workItem from="1670198307780" duration="17000" />
+      <workItem from="1670198341086" duration="6602000" />
     </task>
     <servers />
   </component>

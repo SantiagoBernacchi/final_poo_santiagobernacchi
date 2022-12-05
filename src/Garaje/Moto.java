@@ -1,3 +1,5 @@
+package Garaje;
+
 public class Moto extends Vehiculo {
     public int cilindrada;
 

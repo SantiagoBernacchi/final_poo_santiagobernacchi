@@ -1,3 +1,5 @@
+package Garaje;
+
 public class Vehiculo {
     private int cantRueda;
     private double kilometros;

@@ -1,3 +1,5 @@
+package Garaje;
+
 import java.util.ArrayList;
 
 public class Garaje {
@@ -21,7 +23,7 @@ public class Garaje {
     public void egresoVehiculo (Vehiculo vehiculo){
         this.vehiculo.remove(vehiculo);
     }
-    Garaje(int capacidadMax, double precioRueda){
+    public Garaje(int capacidadMax, double precioRueda){
         this.setCapacidadMax(capacidadMax);
         this.setPrecioRueda(precioRueda);
         this.vehiculo=new ArrayList<Vehiculo>();
